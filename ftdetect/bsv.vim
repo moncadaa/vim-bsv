@@ -1,1 +1,1 @@
-au BufNewFile,BufRead   *.bsv   set filetype=bsv
+au BufNewFile,BufRead   *.ms   set filetype=bsv
